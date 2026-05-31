@@ -1,7 +1,6 @@
-# COD_RM 
+# RoboMaster 2026 - COD  机甲大师2026赛季 - 联盟赛（东北站） - COD 战队（季军）
 
-
-# 全向轮机器人项目
+# Embedded Control System for a RoboMaster Omni-Wheeled Robot
 
 ## 项目概述
 
@@ -118,7 +117,7 @@
 
 ### 核心开发与管理人员
 
-Chen Hongxiang, Qi Zhiang, Li Haoxiang, Yang Hongtao, Liu Chengzhi, Yin Jixing, Jiang Shan
+Chen Hongxiang, Qi Zhiang, WangPeng, Li Haoxiang, Jiang Chunyang, Yang Hongtao, Liu Chengzhi, Yin Jixing, Jiang Shan
 
 ### COD 全体队友
 
